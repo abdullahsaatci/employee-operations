@@ -1,5 +1,5 @@
 # employee-operations
-Implementations some operations on employees by using different kinds of data structures
+Implementations of some operations on employees by using different kinds of data structures
 
 According to given operation files, some changes must be implemented on the given employee dataset. For implementation of these operations a variety of data structures have been used such as skiplist, linked list, binary search tree, arrays, vectors. 
 There are some charts which visualizes how long operations take.
